@@ -19,3 +19,10 @@ abline(v=14)
 # 13.5より大きければH0は棄却.
 # 今回は14なのでH0は棄却→有意差がある
 # したがって右耳と左耳には差がある
+
+x <- seq(0,n)
+B <- binom.test(14, n, P)$statistic
+plot(x, dbinom(x, n, P), 's')
+abline(v=qbinom(0.975, n, P), col='red')
+abline(v=B, col='blue')
+
