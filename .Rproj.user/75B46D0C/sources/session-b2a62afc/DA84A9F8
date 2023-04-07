@@ -1,0 +1,28 @@
+{
+    "id": "DA84A9F8",
+    "path": "~/Downloads/statistics-basic/1-7.R",
+    "project_path": "1-7.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1680855800460.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,7",
+        "scrollLine": "0",
+        "marks": "<:12,0\n>:12,28"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680856720,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680856720525,
+    "read_only": false,
+    "read_only_alternatives": []
+}
